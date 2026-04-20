@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://beyond-the-rainbow.pages.dev/sitemap.xml
